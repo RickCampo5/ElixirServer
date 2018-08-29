@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2><%= json_name %></h2>
+    <ul>
+      <li> Genero: <%= json_gender %> </li>
+      <li> Nacimiento: <%= json_birth %> </li>
+      <li> Altura: <%= json_height %> </li>
+      <li> Masa: <%= json_mass %> </li>
+    </ul>
+ </body>
+</html>
